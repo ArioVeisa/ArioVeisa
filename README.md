@@ -32,10 +32,11 @@ I am a passionate M.Tech CS student at Telkom University, driven by a curiosity 
 
 ## 🏆 Achievements
 
-🌟 Certified Ethical Hacker V10 – Gained advanced knowledge in penetration testing and ethical hacking techniques to protect systems.
-🌟 Certified Hacking Forensic Investigator – Specialized in digital forensics, with skills in investigating and preventing cyber attacks.
-🌟 Certified CompTIA CySA+ – Enhanced skills in threat detection and response using cutting-edge cybersecurity tools.
-🌟 Certified Fortinet NSE 1, 2, 3, 4 – Acquired expertise in network security through Fortinet's comprehensive certification program.
+- 🌟 Certified Hacking Forensic Investigator – Specialized in digital forensics, with skills in investigating and preventing cyber attacks.
+- 🌟 Certified Ethical Hacker V10 – Gained advanced knowledge in penetration testing and ethical hacking techniques to protect systems.
+- 🌟 Certified CompTIA CySA+ – Enhanced skills in threat detection and response using cutting-edge cybersecurity tools.
+- 🌟 Certified Fortinet NSE 1, 2, 3, 4 – Acquired expertise in network security through Fortinet's comprehensive certification program.
+
 
 ## 📬 Get in Touch
 
