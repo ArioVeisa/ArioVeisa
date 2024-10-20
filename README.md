@@ -1,7 +1,3 @@
-Here's the updated version reflecting your details:
-
----
-
 # Hi, I'm Ario Veisa! 👋
 
 I am a passionate M.Tech CS student at Telkom University, driven by a curiosity for cybersecurity and web applications programming. My journey involves delving into these fields, exploring new ideas, and sharing my insights with the community.
