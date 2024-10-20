@@ -1,19 +1,22 @@
+Here's the updated version reflecting your details:
+
+---
+
 # Hi, I'm Ario Veisa! 👋
 
-I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
+I am a passionate M.Tech CS student at Telkom University, driven by a curiosity for cybersecurity and web applications programming. My journey involves delving into these fields, exploring new ideas, and sharing my insights with the community.
 
 ![arioveisa's Stats](https://github-readme-stats.vercel.app/api?username=arioveisa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
-- 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
+- 🔭 I'm currently pursuing my Master's in Computer Science at Telkom University.
 - 📝 I write in-depth, long-form articles on my website [theenthusiast.dev](https://theenthusiast.dev), accumulating over 20k views within just 2 months.
 - 🌐 Proud member of the [Hackernoon Blogging Fellowship](https://hackernoon.com/), contributing to the tech community.
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
 - [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
-
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,gcp,azure,react,vue,flutter,java,kotlin,nodejs,figma)](https://skillicons.dev)
@@ -27,43 +30,17 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
   - Building server-side applications with Django, a powerful Python web framework.
   - Diving into PostgreSQL for efficient and scalable database management.
 
- ## 🏆 Achievements
+## 🏆 Achievements
 
-- 🌟 Completed Hacktoberfest 2023 - Contributed to open source projects and celebrated the spirit of collaboration.
-
+🌟 Certified Ethical Hacker V10 – Gained advanced knowledge in penetration testing and ethical hacking techniques to protect systems.
+🌟 Certified Hacking Forensic Investigator – Specialized in digital forensics, with skills in investigating and preventing cyber attacks.
+🌟 Certified CompTIA CySA+ – Enhanced skills in threat detection and response using cutting-edge cybersecurity tools.
+🌟 Certified Fortinet NSE 1, 2, 3, 4 – Acquired expertise in network security through Fortinet's comprehensive certification program.
 
 ## 📬 Get in Touch
 
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ArioVeisa&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=ArioVeisa&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=ArioVeisa&show_icons=true" />
-</picture>
-
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Twitter](https://twitter.com/arioveisa)
+- Connect with me on [Instagram](https://instagram.com/arioveisa)
 - Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
-
-
-<!--
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
