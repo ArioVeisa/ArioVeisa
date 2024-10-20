@@ -2,7 +2,7 @@
 
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
-![<username>'s Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![arioveisa's Stats](https://github-readme-stats.vercel.app/api?username=arioveisa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## 🚀 About Me
 
@@ -16,7 +16,7 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,gcp,azure,react,vue,flutter,java,kotlin,nodejs,figma)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -37,14 +37,14 @@ I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for 
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://github-readme-stats.vercel.app/api?username=ArioVeisa&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true"
+    srcset="https://github-readme-stats.vercel.app/api?username=ArioVeisa&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ArioVeisa&show_icons=true" />
 </picture>
 
 - Connect with me on [Twitter](https://twitter.com/introvertedbot)
