@@ -2,9 +2,8 @@
 
 I am a passionate M.Tech CS student at Telkom University, driven by a curiosity for cybersecurity and web applications programming. My journey involves delving into these fields, exploring new ideas, and sharing my insights with the community.
 
-![arioveisa's Stats](https://github-readme-stats.vercel.app/api?username=arioveisa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![arioveisa's Stats](https://github-readme-stats.vercel.app/api?username=arioveisa&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioveisa&hide_progress=true)
 
 ## 🚀 About Me
 
