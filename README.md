@@ -4,7 +4,7 @@ I am a passionate M.Tech CS student at Telkom University, driven by a curiosity 
 
 ![arioveisa's Stats](https://github-readme-stats.vercel.app/api?username=arioveisa&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=arioveisa&hide_progress=true
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arioveisa&hide_progress=true)
 
 ## 🚀 About Me
 
