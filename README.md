@@ -1,6 +1,6 @@
 # Hi, I'm Ario Veisa! 👋
 
-I am a passionate M.Tech CS student at Telkom University, driven by a curiosity for cybersecurity and web applications programming. My journey involves delving into these fields, exploring new ideas, and sharing my insights with the community.
+I am a passionate Tech student at Telkom University, driven by a curiosity for cybersecurity and web applications programming. My journey involves delving into these fields, exploring new ideas, and sharing my insights with the community.
 
 ![arioveisa's Stats](https://github-readme-stats.vercel.app/api?username=ArioVeisa&theme=dracula&show_icons=true&hide_border=true&count_private=true)
 
