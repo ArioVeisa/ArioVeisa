@@ -14,15 +14,15 @@ I am a passionate Tech student at Telkom University, driven by a curiosity for c
 class SoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zhenye Na"
-        self.role = "Software Engineer"
-        self.language_spoken = ["zh_CN", "en_US"]
+        self.name = "Ario Veisa"
+        self.role = "Digital Forensic"
+        self.language_spoken = ["Id", "en_US"]
 
     def say_hi(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
 
 
-me = SoftwareEngineer()
+me = Forensic()
 me.say_hi()
 ```
 
