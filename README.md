@@ -11,7 +11,7 @@ I am a passionate Tech student at Telkom University, driven by a curiosity for c
 # -*- coding: utf-8 -*-
 
 
-class SoftwareEngineer:
+class Forensic:
 
     def __init__(self):
         self.name = "Ario Veisa"
