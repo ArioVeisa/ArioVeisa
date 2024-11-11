@@ -35,7 +35,9 @@ me.say_hi()
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [JavaScript Engine and Runtime Explained](https://www.freecodecamp.org/news/javascript-engine-and-runtime-explained/)
+- [Security system and hardwer component]
+- [How to takeover domain active with nuclei]
+- [Nmap with Vuln Assesment]
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,gcp,azure,react,vue,flutter,java,kotlin,nodejs,figma)](https://skillicons.dev)
