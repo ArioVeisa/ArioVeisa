@@ -35,7 +35,7 @@ me.say_hi()
 - ✍️ Content Writer at [freeCodeCamp](https://www.freecodecamp.org/), gearing up to share valuable insights with the global coding community.
 
 ## My Articles
-- [Security system and hardwer component]
+- [Security system and hardware component]
 - [How to takeover domain active with nuclei]
 - [Nmap with Vuln Assesment]
 
