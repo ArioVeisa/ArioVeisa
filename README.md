@@ -36,7 +36,7 @@ me.say_hi()
 
 ## My Articles
 - [Optimizing Security in DevOps with DevSecOps]
-- [How to takeover domain active with nuclei]
+- What is Blockchain? Understanding the Technology Behind Digital Currencies]
 - [Nmap with Vuln Assesment]
 
 ## Tech Stack
