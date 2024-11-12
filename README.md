@@ -36,8 +36,8 @@ me.say_hi()
 
 ## My Articles
 - [Optimizing Security in DevOps with DevSecOps]
-- What is Blockchain? Understanding the Technology Behind Digital Currencies]
-- [Nmap with Vuln Assesment]
+- [What is Blockchain? Understanding the Technology Behind Digital Currencies]
+- [What is Two-Factor Authentication (2FA) and Why It’s Essential for Your Security?]
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,gcp,azure,react,vue,flutter,java,kotlin,nodejs,figma)](https://skillicons.dev)
