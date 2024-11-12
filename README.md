@@ -38,6 +38,7 @@ me.say_hi()
 - [Optimizing Security in DevOps with DevSecOps]
 - [What is Blockchain? Understanding the Technology Behind Digital Currencies]
 - [What is Two-Factor Authentication (2FA) and Why It’s Essential for Your Security?]
+- [Exploring Encryption and Decryption: The Technology Behind Securing Digital Information
 
 ## Tech Stack
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,aws,gcp,azure,react,vue,flutter,java,kotlin,nodejs,figma)](https://skillicons.dev)
