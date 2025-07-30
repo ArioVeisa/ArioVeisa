@@ -64,6 +64,6 @@ me.say_hi()
 
 - Connect with me on [Twitter](https://twitter.com/arioveisa)
 - Connect with me on [Instagram](https://instagram.com/arioveisa)
-- Read more of my articles on [theenthusiast.dev](https://theenthusiast.dev)
+
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
